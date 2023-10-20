@@ -7,7 +7,7 @@ public class ToyRaffle {
         Toy toy3 = new Toy(3, "Мяч", 200, 90);
         Toy toy4 = new Toy(3, "Кукла Barbie", 50, 30);
         Toy toy5 = new Toy(3, "Пазл", 200, 90);
-        Toy toy6 = new Toy(3, "PlayStation 5", 10, 10);
+        Toy toy6 = new Toy(3, "PlayStation 5", 150, 50);
 
         store.addToy(toy1);
         store.addToy(toy2);
